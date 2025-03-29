@@ -24,4 +24,5 @@ The project walks through the full modeling pipeline:
   
 ## Key Results
 **SARIMA Model**: ARIMA(0,1,0)(0,1,0)[12] chosen for its accuracy and stability
+
 Forecasted Super Bowl 59 Handle: **$2.59 billion**
